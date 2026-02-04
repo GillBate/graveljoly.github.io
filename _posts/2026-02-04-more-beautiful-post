@@ -21,3 +21,15 @@ You can also add [links](https://example.com) or **bold/italic text**.
 
 ```python
 print("Hello, world!")
+
+> This is a blockquote.
+> 
+> — Author Name
+
+This is a table test:
+
+| Name | Age |
+|------|-----|
+| Alice | 30 |
+| Bob   | 25 |
+
