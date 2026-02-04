@@ -8,7 +8,7 @@ This is the introduction to my post.
 
 Here’s an **image**:
 
-![My Cat](https://via.placeholder.com/600x400.png)
+![My Cat](/assets/images/mycat.png)
 
 Here’s a **quote**:
 
