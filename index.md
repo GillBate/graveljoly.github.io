@@ -5,11 +5,9 @@ title: Home
 
 # Welcome to My Blog
 
-<ul>
 {% for post in site.posts %}
-  <li>
-    <a href="{{ post.url }}">{{ post.title }}</a>
-    <small>— {{ post.date | date: "%B %d, %Y" }}</small>
-  </li>
+  <article>
+    <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
+    <p style="font-size: small; color: grey;">{{ post.date | date: "%B %d, %Y" }}</p>
+  </article>
 {% endfor %}
-</ul>
