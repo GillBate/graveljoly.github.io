@@ -8,7 +8,7 @@ This is the introduction to my post.
 
 Here’s an **image**:
 
-![My Cat](/assets/images/mycat.png)
+![My Cat](/assets/images/mycat2.jpeg)
 
 Here’s a **quote**:
 
