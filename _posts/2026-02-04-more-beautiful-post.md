@@ -8,7 +8,7 @@ This is the introduction to my post.
 
 Here’s an **image**:
 
-![My Cat](https://placekitten.com/600/400)
+![My Cat](https://via.placeholder.com/600x400.png)
 
 Here’s a **quote**:
 
@@ -21,6 +21,7 @@ You can also add [links](https://example.com) or **bold/italic text**.
 
 ```python
 print("Hello, world!")
+```
 
 > This is a blockquote.
 > 
