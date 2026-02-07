@@ -4,7 +4,7 @@ title: Home
 ---
 
 <!-- Blog title -->
-<h1>blog test: might or might not post articles eventually</h1>
+<h1>blog test</h1>
 
 <!-- Section heading -->
 <h3>Posts</h3>
