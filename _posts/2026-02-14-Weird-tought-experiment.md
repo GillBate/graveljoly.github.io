@@ -1,3 +1,9 @@
+---
+layout: post
+title: "jsp"
+date: 2026-02-16
+---
+
 Like most of us, I fear death.
 
 Since I was around 3 years old, I know death exists and it scares the shit out of me.
