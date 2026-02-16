@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "jsp"
+title: "Weird tought experiment"
 date: 2026-02-16
 ---
 
